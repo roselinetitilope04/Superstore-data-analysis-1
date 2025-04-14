@@ -26,7 +26,7 @@ Analysing sales data to identify trends, opportunities, and insights and to pres
 - Use linear regression to forecast future sales and discuss the implications for the company.
 ### Tools
 - PowerBI
-- Python (Jypiter notebook)
+- Python (Jupyter notebook)
 
 
 
