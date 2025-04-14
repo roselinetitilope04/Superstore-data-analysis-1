@@ -21,9 +21,6 @@ Analysing sales data to identify trends, opportunities, and insights and to pres
 ### Presentation:
 - Present your insights and findings to the team.
 - Use linear regression to forecast future sales and discuss the implications for the company.
-### Presentation:
-- Present your insights and findings to the team.
-- Use linear regression to forecast future sales and discuss the implications for the company.
 ### Tools
 - PowerBI
 - Python (Jupyter notebook)
